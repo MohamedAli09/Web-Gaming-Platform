@@ -39,6 +39,10 @@ Defines a `details` class responsible for fetching detailed information about a 
 3. Clicking on a game card triggers the `detailsOfSpecificGame` method, fetching and displaying detailed information about the selected game.
 4. A close button in the details view returns to the main games view.
 
+## Live Demo
+
+Explore the live demo: [Web Gaming Platform](https://mohamedali09.github.io/Web-Gaming-Platform/)
+
 ## Notes
 
 1. The code follows the ES6 module structure for better organization.

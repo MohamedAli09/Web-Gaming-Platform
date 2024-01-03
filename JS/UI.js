@@ -42,7 +42,6 @@ export class UI {
 
 
    displayOneGameDetails(array) {
-    console.log(array);
         let carton = 
         `
         <div class="header d-flex justify-content-between">
